@@ -40,3 +40,6 @@ Run the orchestrated pipeline:
 ```bash
 python run_pipeline.py
 ```
+
+## NB: 
+The ```generate_mock_data.py``` should be run first to generate the necessary files (csv).
